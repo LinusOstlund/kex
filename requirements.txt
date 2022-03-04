@@ -1,0 +1,6 @@
+ipython
+seaborn
+matplotlib
+pandas
+numpy
+black
